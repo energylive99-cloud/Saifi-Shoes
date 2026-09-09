@@ -1,0 +1,6 @@
+{
+  "name": "Saifi Shoes",
+  "description": "Official Android application for Saifi Shoes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
